@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.2.3](https://github.com/grafana/loki/compare/v3.2.2...v3.2.3) (2024-12-18)
+
+
+### Bug Fixes
+
+* **deps:** backport update module golang.org/x/crypto to v0.31.0 ([#15395](https://github.com/grafana/loki/issues/15395)) ([a81159e](https://github.com/grafana/loki/commit/a81159e8b373f151a489342f347046f7f730f986))
+
 ## [3.2.2](https://github.com/grafana/loki/compare/v3.2.1...v3.2.2) (2024-12-04)
 
 
