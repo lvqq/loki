@@ -6,6 +6,13 @@
 
 * **promtail:** fix parser for azureeventhubs message without time field ([#14218](https://github.com/grafana/loki/pull/14218))
 
+## [3.3.3](https://github.com/grafana/loki/compare/v3.3.2...v3.3.3) (2024-12-20)
+
+
+### Bug Fixes
+
+* **ci:** Revert "fixed `Publish Rendered Helm Chart Diff` workflow" ([#15511](https://github.com/grafana/loki/issues/15511)) ([09d1085](https://github.com/grafana/loki/commit/09d1085fe71e479d329e3a454f36c2e589caae24))
+
 ## [3.3.2](https://github.com/grafana/loki/compare/v3.3.1...v3.3.2) (2024-12-18)
 
 
